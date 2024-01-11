@@ -1,6 +1,6 @@
 # Godot Mugen Data
 
-This repository contains the base game with the KFM character of the mugen engine built by Elecbyte.
+This repository contains the base game with the KFM character of the original M.U.G.E.N™ engine built by Elecbyte.
 
 # License
 
